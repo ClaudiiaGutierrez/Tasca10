@@ -1,0 +1,4 @@
+
+a=[56, 42, 23]
+for p,e in enumerate(a):
+    print("Índex: {}, element: {} ".format(p, e))

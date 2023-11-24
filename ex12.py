@@ -4,7 +4,7 @@ def menu_principal():
       Menú principal:
       1. Calculadora de nombre enters
       2. Calculadora de nombre reals
-      3.Canvis de base
+      3. Canvis de base
       4. Sortir
       """)
     a = int(input("Elegeixi una opció: "))
