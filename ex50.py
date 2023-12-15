@@ -5,5 +5,6 @@ def crear_llista_fitxer(fitxer):
          print(lparaules)
          f.close()
 #Programa Principal
+print("El ficher es diu {}")
 crear_llista_fitxer('/home/cicles/AO/Tasca10/prova')
 
